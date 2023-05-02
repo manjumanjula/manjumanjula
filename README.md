@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bhutarayappa gari manjula
-- 👀 I’m interested in fullstock doveloper
-- 🌱 I’m currently learning html css,python,javasrcipt
+- 👀 I’m interested in fullstock doveloper in .net technology
+- 🌱 I’m currently learning javasrcipt
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me hanukumarmanju@gmail.com
 
