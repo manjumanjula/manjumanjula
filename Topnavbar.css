@@ -1,0 +1,26 @@
+.top-navbar{
+    /* justify-items: end; */
+    justify-content: end;
+    display: flex;
+    /* background-color: rgb(65, 80, 126); */
+    background-color: darkgray;
+  
+    /* border: 1px solid; */
+}
+
+.chill-header{
+    justify-items: left;
+    display: flex;
+    color: white;
+    background-color: darkgray;
+    justify-content: start;
+    
+    font-size: 20px;
+    /* border: 1px solid red; */
+
+}
+.navbar{
+    width: 100%;
+    height: 100%;
+    border: 1px solid red;
+}

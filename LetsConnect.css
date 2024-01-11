@@ -1,0 +1,12 @@
+.WatchMovie {
+    background-color: chartreuse;
+    color: white;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: auto;
+    margin-left: 10px;
+    /* border: 1px solid black; */
+    height: 30%;
+    width: 40%;
+}

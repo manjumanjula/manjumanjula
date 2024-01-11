@@ -1,0 +1,88 @@
+.formfield{
+    color: rgb(35, 149, 153);
+    border: 2px;
+    margin-top: 8px;
+    margin-top: 8px;
+    /* font-weight: bold; */
+    font-style: oblique;
+    border-radius: 2px;
+
+}
+.image{
+    height: 50%;
+    margin-left: 40px;
+    height: 90%;
+    width: 40%;
+}
+.email-class{
+    border: 1px;
+    text-align: center;
+    color: rgb(124, 120, 114);
+    height: 35px;
+    width: 128%;
+    border-radius: 3px;
+    border: 8px;
+    outline: none;
+    margin-top: 5px;
+    margin-right: 6px;
+}
+.reg-link{
+    /* margin-left: 70%; */
+    align-items: center;
+    color: rgb(160, 27, 60);
+}
+.button{
+    background-color: rgb(47, 150, 21);
+    border: 2px;
+    cursor: pointer;
+    color: white;
+    border-radius: 3px;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.form-border{
+    box-shadow: 0 0 5px 2px #adbecf;
+    border-radius: 4px;
+    height: 120%;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 65px;
+   margin-bottom: 10px;
+}
+.whole-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+    /* background-color: #adbecf; */
+}
+.icon-alignment{
+    margin-right: 10px;
+    justify-items: right;
+    font-size: larger;
+    font-weight: bold;
+    /* color: aquamarine; */
+}
+.heading{
+    font-weight: bold;
+    font-size: large;
+}
+.form-border1{
+    box-shadow: 0 0 5px 2px #e0e5eb;
+    border-radius: 4px;
+    height: 120%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+   margin-bottom: 40px;
+}

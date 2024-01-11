@@ -1,0 +1,48 @@
+/* .container{
+    background-color: aqua;
+    color: brown;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 1px;
+    border: 1px;
+    border-style: solid;
+    align-items: center;
+}
+body{
+    background-color: antiquewhite;
+    }
+.header{
+    color: chartreuse;
+    align-items: center;
+}
+.button{
+    background-color: rgb(20, 167, 40);
+    text-decoration-color: rgb(208, 208, 216);
+    color: brown;
+
+} */
+.cards-style{
+    height: auto;
+    width: 20%;
+    background-color: thistle;
+    border-radius: 6px;
+    box-shadow: black;
+    margin-top: 2%;
+    margin-right: 1%;
+}
+.chatbot-container{
+    background-color: thistle;
+    height: 30%;
+    box-shadow: black;
+    margin-top: 2%;
+    margin-right: 1%;
+    margin-bottom: 20%;
+    border-radius: 5px;
+}
+.topnavbar{
+   
+  color: cornsilk;  
+  border-radius: 10px;
+  background-color: rgb(122, 156, 206);
+
+}

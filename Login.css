@@ -1,0 +1,321 @@
+.fullscreen{
+    display: flex;
+    
+}
+.login-col{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height:98vh;
+    width: 60%;
+    min-height: 301px;
+    /* margin-left: 100px; */
+
+}
+.form-border{
+    box-shadow: 0 0 5px 2px #B4B7BA;
+    border-radius: 4px;
+    height: 60%;
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.progress{
+    height: 20px;
+    width: 100%;
+    margin-top: -20px;
+    /* border: 1px solid; */
+}
+.marquee-div{
+    height: 4px;
+    background-color: rgb(36, 160, 237);
+    border-radius: 2px;
+    width:70%;
+    /* margin-top: -2px; */
+}
+.form-div{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid; */
+    height: 90%;
+    width: 80%;
+    /* margin-top: -20px; */
+    align-items: flex-start;
+    justify-content: space-between;
+    /* margin-left: 400px; */
+
+}
+.blur-form {
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid; */
+    position: inherit;
+    height: 90%;
+    width: 80%; 
+    align-items: flex-start;
+    justify-content: space-between;
+    -webkit-filter: blur(0.5px);
+    -moz-filter: blur(0.5px);
+    -ms-filter: blur(0.5px);
+    -o-filter: blur(0.5px);
+    filter: blur(0.5px);
+}
+.card-title {
+    font-family: "Raleway Thin", sans-serif;
+    font-weight: 600;
+    color: rgb(101, 99, 105);
+    letter-spacing: 4px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    text-align: center;
+    /* border: 1px solid; */
+    width: 100%;
+}
+.Loginform-class{
+    display: flex;
+    flex-direction: column;
+    height: 85%;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    /* border: 1px solid; */
+
+}
+.Signupform-class{
+    display: flex;
+    flex-direction: column;
+    height: 280px;
+    width: 368px;
+    justify-content: space-evenly;
+    align-items: flex-start;
+
+}
+.signup-row{
+    height: 40px;
+    width: 370px;
+    display: flex;
+    background-color: rgb(232, 236, 235);
+}
+.sign-log{
+    height: 40px;
+    width: 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logrow-one{
+    height: 38px;
+    width: 45px;
+    display: flex;
+    align-items:center;
+    border-bottom: 4px solid;
+    border-color: rgb(36, 160, 237);
+}
+.button-signup{
+    cursor: pointer;
+    height: 40px;
+    border: none;
+    color: black;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(232, 236, 235);
+
+}
+.bbutton-signup{
+    cursor: pointer;
+    height: 40px;
+
+    background-color: rgb(232, 236, 235);
+    color: rgb(36, 160, 237);
+}
+.button-signup:hover{
+    border-bottom: 4px solid;
+    border-color: rgb(36, 160, 237);
+    font-size: 14px;
+    color: rgb(36, 160, 237);
+}
+.login-signup{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+    border-color: gray;
+    border-radius: 4px;
+}
+button-signup:clicked{
+   background-color: rgb(36, 160, 237);
+}
+.email-class{
+    border: hidden;
+    /* text-align: center; */
+    height: 35px;
+    width: 90%;
+    outline: none;
+}
+.row-three{
+    display: flex;
+    height: 20px;
+    width: 100%;
+    align-items: center;
+}
+.row-four{
+    height: 30px;
+    width: 100%;
+}
+.forgot-remember{
+    display: flex;
+    height: 30px;
+    width: 100%;
+    justify-content: space-between;
+}
+.checkclass{
+    display: flex;
+    align-items: center;
+}
+.checkme{
+    display: flex;
+    height:18px;
+    width: 18px;
+}
+.row-five{
+    height: 37px;
+    width: 100%;
+    display: flex;
+    /* border: 1px solid; */
+    justify-content: flex-start;
+    align-items: center;
+}
+.forgot-button{
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    color: gray;
+    text-decoration: none;
+}
+.forgot-button:hover{
+    /* color: rgb(36, 160, 237); */
+    transform: scale(1.1);
+    /* border-radius: 4px; */
+   
+}
+.signin-button{
+    width: 90px;
+    height: 36px;
+    border-radius: 4px;
+    background-color: rgb(36, 160, 237);
+    color: white;
+    font-size:medium;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signin-blur{
+    width: 90px;
+    height: 36px;
+    border-radius: 4px;
+    background-color: rgb(36, 160, 237);
+    color: white;
+    font-size:medium;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signin-button:hover{
+    /* font-size: 18px;
+    background-color: rgb(178, 194, 204);
+    color: black; */
+    border-radius: 4px;
+    transform: scale(1.04);
+}
+.space-col{
+    height: 98vh;
+    width:12vh;
+    /* border: 1px solid; */
+}
+.image-fullcol{
+    display: flex;
+    width:40%;
+    height:60%;
+    margin-top: 9%;
+    /* margin:auto */
+    /* flex-direction: column; */
+}
+.firstrow-images{
+    display: flex;
+    /* border: 1px solid; */
+    flex-direction: column;
+    /* height:20vh */
+}
+.first-image{
+    height: 10vh;
+    width:27vh;
+    min-height: 200px;
+    min-width: 200px;
+    /* border: 1px solid; */
+}
+.firstimage-col{
+    /* border: 1px solid; */
+    height: 53vh;
+    min-height: 250px;
+    min-width: 200px;
+    display: flex;
+    align-items: center;
+}
+.secondimage-col{
+    /* border: 1px solid; */
+    height:26vh;
+    width: 65vh;
+    min-height: 50px;
+    min-width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.second-image{
+    height: 16vh;
+    width: 48vh;
+    min-height: 50px;
+    min-width: 100px;
+}
+.thirdimage-col{
+    height: 43vh;
+    width: 60vh;
+    min-height: 300px;
+    min-width: 200px;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: flex-end;
+}
+.third-image{
+    height: 43vh;
+    width:50vh;
+    min-height: 300px;
+    min-width: 200px;
+    /* border: 1px solid; */
+}
+.fourthimage-col{
+    width: 60vh;
+    height: 53vh;
+    min-height: 300px;
+    min-width: 200px;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fourth-image{
+    height: 45vh;
+    width:45vh;
+    min-height: 300px;
+    min-width: 200px;
+    /* border: 1px solid; */
+}
