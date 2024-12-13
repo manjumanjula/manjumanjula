@@ -1,4 +1,4 @@
-- 👋 Hi, I’m bhutarayappa gari manjula
+- 👋 Hi, I’m Ugrarapu Pavithra
 - 👀 I’m interested in fullstock doveloper in .net technology
 - 🌱 I’m currently learning javasrcipt
 - 💞️ I’m looking to collaborate on 
